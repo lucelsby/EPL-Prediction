@@ -1,5 +1,5 @@
 
-# year of latest PL season (ongoing) (2022 = 2022-23)
-LATEST_SEASON = 2022
+# year of latest PL season (ongoing) (2022 = 2021-22)
+LATEST_SEASON = 2023
 
 
